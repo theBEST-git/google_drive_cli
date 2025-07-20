@@ -1,0 +1,5 @@
+.env
+client_secret_46183842021-lbppce5t0p9rpsqlfm4n0m2e2ergsbjs.apps.googleusercontent.com.json
+token.pkl
+__pycache__/
+*.pyc

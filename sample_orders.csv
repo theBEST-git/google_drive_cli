@@ -1,0 +1,6 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+1001,Alice Johnson,Laptop,1,1200.0,2025-07-01
+1002,Bob Smith,Mouse,2,25.5,2025-07-02
+1003,Charlie Nguyen,Monitor,1,300.99,2025-07-03
+1004,Diana Chen,Keyboard,1,45.0,2025-07-03
+1005,Ethan Patel,USB-C Hub,3,18.75,2025-07-04

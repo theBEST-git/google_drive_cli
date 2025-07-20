@@ -19,6 +19,8 @@ Supports uploading, downloading, deleting, and reading text from files in a spec
 
 ## 🚀 Quick Start
 
+➡️ **NOTE: For a better user experience, please run [`main_UXenhanced.py`](./main_UXenhanced.py) instead of `main.py`.**
+
 ### 1. Clone the Repository
 
 ```bash
